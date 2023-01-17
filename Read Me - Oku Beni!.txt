@@ -1,0 +1,22 @@
+Merhaba dostlarım,
+
+Kullanmak için winpcap programını yüklemelisiniz.
+
+WinPcap, Windows için bir kütüphanedir ve programların ağ paketlerini yakalamasına ve göndermesine izin verir. 
+Bu, işletim sisteminin ağ yığını tarafından sağlanan düşük seviyeli paket yakalama mekanizmalarına yüksek seviyeli bir arayüz sağlar. 
+WinPcap, ağ analizi ve ağ izleme yazılımları gibi yaygın olarak, 
+ayrıca güvenlikle ilgili yazılımlar ve saldırı algılama sistemleri gibi kullanılır.
+Bu, belirli bir ağ arayüzünden ağ trafiğini yakalamak, 
+paketleri çeşitli kriterlere göre filtrelemek ve daha sonra yakalanan paketleri işlemek veya analiz etmek için kullanılabilir.
+
+
+Hello my friends,
+
+You must install the winpcap program to use it.
+
+WinPcap is a library for Windows and allows programs to capture and send network packets.
+This provides a high-level look at the low-level packet capture control that the operating system obtains by the network.
+Commonly, such as WinPcap, network analysis and network monitoring software,
+it is also used as security related software and intrusion detection systems.
+This is capturing network guards from a specific network interface,
+Containers can be used to publish by various components and then process or analyze the parts as packages.
