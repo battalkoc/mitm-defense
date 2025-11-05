@@ -1,0 +1,1 @@
+Aracın çalışması için içerisine herhangi bir hedef ip adresi girmelisiniz. Bu girdiğiniz bir sitede olabilir tek amaç oraya sanki önemli bir paket yolluyormuş gibi gösterip hackerı oltaya getirmektir.
