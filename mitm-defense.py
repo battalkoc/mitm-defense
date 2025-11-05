@@ -3,7 +3,7 @@ import time
 import datetime
 import http.client
 
-conn = http.client.HTTPConnection("45.84.188.101")
+conn = http.client.HTTPConnection("Buraya Çalışan Bir IP Adresi Girin. Herhangi bir IP Adresi olur fark etmez.")
 message = '''
 **************************************What The Fuck******************************************
 ... ... ... ... ... ... ... ... ... --~~”'¯¯¯¯¯¯”'~~--,,
